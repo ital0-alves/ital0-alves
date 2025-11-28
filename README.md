@@ -16,4 +16,13 @@
   <img height="50%
 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEREIRINHAAH=compact&langs_count=16&theme=dark"/>
 </div>
+##
+<div style="display: inline_block"><br>
+  <img align="center" alt="Italo-Js" height="30" width="40" src="">
+  <img align="center" alt="Italo-Ts" height="30" width="40" src="">
+  <img align="center" alt="Italo-React" height="30" width="40" src="">
+  <img align="center" alt="Italo-HTML" height="30" width="40" src="">
+  <img align="center" alt="Italo-CSS" height="30" width="40" src="">
+ 
+</div>
 
