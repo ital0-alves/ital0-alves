@@ -18,12 +18,13 @@
 </div>
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="ital0-alves-Js" height="30" width="40" src="">
-  <img align="center" alt="ital0-alves-Ts" height="30" width="40" src="">
-  <img align="center" alt="ital0-alves-React" height="30" width="40" src="">
-  <img align="center" alt="ital0-alves-HTML" height="30" width="40" src="">
-  <img align="center" alt="ital0-alves-CSS" height="30" width="40" src="">
- 
+  <img align="center" alt="Italo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Italo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Italo-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg">
+  <img align="center" alt="Italo-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
+  <img align="center" alt="Italo-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Italo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img align="center" alt="Italo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </div>
 ##
 <div>
